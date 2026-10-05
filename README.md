@@ -32,4 +32,4 @@ BTS SIO → Professional bachelor's degree → Master's in Web Architecture & Bi
 Full-stack JavaScript developer in an IT services company, then project manager and technical project manager in the IT department of a large healthcare group.
 
 #### 📫 Get in touch
-[Website](https://tsmhashdigital.fr/) · [LinkedIn](https://www.linkedin.com/in/kevin-courroux-2aa39712a/) · [Company page](https://www.linkedin.com/company/tsm-hash-digital/) · [X](https://x.com/tsmhashdigital) · [Discord](https://discord.gg/P4SAVa3DJB) · contact@tsmhashdigital.fr
+[Website](https://tsmhashdigital.fr/) · [LinkedIn](https://www.linkedin.com/in/kevin-courroux/) · [Company page](https://www.linkedin.com/company/tsm-hash-digital/) · [X](https://x.com/tsmhashdigital) · [Discord](https://discord.gg/P4SAVa3DJB) · contact@tsmhashdigital.fr
